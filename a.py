@@ -44,4 +44,5 @@ def addError(binary, n):
         newList[i] = str(newBit)
     return ''.join(newList)
 
-part1B()
+#part1B()
+part1()
