@@ -1,5 +1,6 @@
 counter = 0
-data = ['00100100','10101100','10011100','11100101']
+#data = ['00100100','10101100','10011100','11100101']
+data = ['00100100']
 for i in range(0, len(data)):
     present = []
     dataStream = data[i]
